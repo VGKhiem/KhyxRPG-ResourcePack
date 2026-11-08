@@ -1,0 +1,31 @@
+﻿{
+  "credit": "KhyxRPG VFX 3D Volumetric",
+  "elements": [
+    {
+      "from": [-4, -4, 8],
+      "to": [20, 20, 8.02],
+      "rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+      }
+    },
+    {
+      "from": [-4, -4, 8],
+      "to": [20, 20, 8.02],
+      "rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+      }
+    },
+    {
+      "from": [-4, 8, -4],
+      "to": [20, 8.02, 20],
+      "faces": {
+        "up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+      }
+    }
+  ]
+}

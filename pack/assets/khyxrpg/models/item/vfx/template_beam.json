@@ -1,0 +1,39 @@
+{
+  "credit": "KhyxRPG 3D Volumetric Beam Template",
+  "elements": [
+    {
+      "from": [0, 8, 0],
+      "to": [16, 8.1, 16],
+      "faces": {
+        "up":   {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+      }
+    },
+    {
+      "from": [8, 0, 0],
+      "to": [8.1, 16, 16],
+      "faces": {
+        "east": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0"},
+        "west": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"}
+      }
+    },
+    {
+      "from": [0, 8, 0],
+      "to": [16, 8.1, 16],
+      "rotation": {"angle": 45, "axis": "z", "origin": [8, 8, 8]},
+      "faces": {
+        "up":   {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+      }
+    },
+    {
+      "from": [0, 8, 0],
+      "to": [16, 8.1, 16],
+      "rotation": {"angle": -45, "axis": "z", "origin": [8, 8, 8]},
+      "faces": {
+        "up":   {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "credit": "KhyxRPG Seamless Solid 3D Heater Shield (Knight Skill 2)",
+  "textures": {
+    "0": "khyxrpg:item/vfx/knight_shield",
+    "particle": "khyxrpg:item/vfx/knight_shield"
+  },
+  "elements": [
+    {
+      "name": "shield_upper_body",
+      "from": [2.0, 5.0, 6.8],
+      "to": [14.0, 16.5, 9.2],
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "east":  {"uv": [0, 0, 4, 16], "texture": "#0"},
+        "west":  {"uv": [12, 0, 16, 16], "texture": "#0"},
+        "up":    {"uv": [0, 0, 16, 4], "texture": "#0"},
+        "down":  {"uv": [0, 12, 16, 16], "texture": "#0"}
+      }
+    },
+    {
+      "name": "shield_taper_mid",
+      "from": [3.5, 2.2, 6.8],
+      "to": [12.5, 5.5, 9.2],
+      "faces": {
+        "north": {"uv": [2, 8, 14, 16], "texture": "#0"},
+        "south": {"uv": [2, 8, 14, 16], "texture": "#0"},
+        "east":  {"uv": [0, 8, 4, 16], "texture": "#0"},
+        "west":  {"uv": [12, 8, 16, 16], "texture": "#0"},
+        "down":  {"uv": [2, 12, 14, 16], "texture": "#0"}
+      }
+    },
+    {
+      "name": "shield_taper_tip",
+      "from": [5.5, 0.0, 6.8],
+      "to": [10.5, 2.7, 9.2],
+      "faces": {
+        "north": {"uv": [4, 8, 12, 16], "texture": "#0"},
+        "south": {"uv": [4, 8, 12, 16], "texture": "#0"},
+        "east":  {"uv": [0, 8, 4, 16], "texture": "#0"},
+        "west":  {"uv": [12, 8, 16, 16], "texture": "#0"},
+        "down":  {"uv": [4, 12, 12, 16], "texture": "#0"}
+      }
+    },
+    {
+      "name": "shield_front_bevel_plate",
+      "from": [3.6, 4.0, 6.2],
+      "to": [12.4, 15.0, 9.8],
+      "faces": {
+        "north": {"uv": [2, 2, 14, 14], "texture": "#0"},
+        "south": {"uv": [2, 2, 14, 14], "texture": "#0"},
+        "east":  {"uv": [0, 2, 4, 14], "texture": "#0"},
+        "west":  {"uv": [12, 2, 16, 14], "texture": "#0"},
+        "up":    {"uv": [2, 0, 14, 4], "texture": "#0"},
+        "down":  {"uv": [2, 12, 14, 16], "texture": "#0"}
+      }
+    }
+  ]
+}

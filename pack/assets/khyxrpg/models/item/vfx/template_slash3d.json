@@ -1,0 +1,40 @@
+﻿{
+  "credit": "KhyxRPG 3D Volumetric Slash",
+  "elements": [
+    {
+      "from": [-8, 8, -8],
+      "to": [24, 8.2, 24],
+      "faces": {
+        "up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+      }
+    },
+    {
+      "from": [-8, 8, -8],
+      "to": [24, 8.2, 24],
+      "rotation": {"angle": 22.5, "axis": "x", "origin": [8, 8, 8]},
+      "faces": {
+        "up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+      }
+    },
+    {
+      "from": [-8, 8, -8],
+      "to": [24, 8.2, 24],
+      "rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 8]},
+      "faces": {
+        "up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+      }
+    },
+    {
+      "from": [-8, 8, -8],
+      "to": [24, 8.2, 24],
+      "rotation": {"angle": 22.5, "axis": "z", "origin": [8, 8, 8]},
+      "faces": {
+        "up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+      }
+    }
+  ]
+}

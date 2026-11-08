@@ -1,0 +1,22 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "khyxrpg:font/khyxrpg_logo.png",
+   "ascent": 21,
+   "height": 22,
+   "chars": [
+    "\ue200"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "khyxrpg:font/khyxrpg_logo_small.png",
+   "ascent": 15,
+   "height": 16,
+   "chars": [
+    "\ue201"
+   ]
+  }
+ ]
+}

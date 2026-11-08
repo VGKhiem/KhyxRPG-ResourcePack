@@ -1,0 +1,7 @@
+{
+  "parent": "khyxrpg:item/vfx/template_slash3d",
+  "textures": {
+    "0": "khyxrpg:item/vfx/slash_arc_soul",
+    "particle": "khyxrpg:item/vfx/slash_arc_soul"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "khyxrpg:item/vfx/template_ground",
+  "textures": {
+    "0": "khyxrpg:item/vfx/knight_punish_seal",
+    "particle": "khyxrpg:item/vfx/knight_punish_seal"
+  }
+}

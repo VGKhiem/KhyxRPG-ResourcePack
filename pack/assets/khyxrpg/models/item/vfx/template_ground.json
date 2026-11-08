@@ -1,0 +1,13 @@
+﻿{
+  "credit": "KhyxRPG VFX Ground Plane",
+  "elements": [
+    {
+      "from": [-8, 8, -8],
+      "to": [24, 8.02, 24],
+      "faces": {
+        "up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+      }
+    }
+  ]
+}
