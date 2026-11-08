@@ -1,8 +1,8 @@
 {
-  "credit": "KhyxRPG Crescent Slash Frame 1 (assassin_basic_slash_3d_f1)",
+  "credit": "KhyxRPG Crescent Slash (knight_slash_r2l_f4)",
   "textures": {
-    "0": "khyxrpg:item/vfx/assassin_basic_slash_f1",
-    "particle": "khyxrpg:item/vfx/assassin_basic_slash_f1"
+    "0": "khyxrpg:item/vfx/knight_slash_r2l_f4",
+    "particle": "khyxrpg:item/vfx/knight_slash_r2l_f4"
   },
   "elements": [
     {

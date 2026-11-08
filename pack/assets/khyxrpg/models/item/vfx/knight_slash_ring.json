@@ -1,7 +1,0 @@
-﻿{
-  "parent": "khyxrpg:item/vfx/template_ground",
-  "textures": {
-    "0": "khyxrpg:item/vfx/knight_slash_ring",
-    "particle": "khyxrpg:item/vfx/knight_slash_ring"
-  }
-}
