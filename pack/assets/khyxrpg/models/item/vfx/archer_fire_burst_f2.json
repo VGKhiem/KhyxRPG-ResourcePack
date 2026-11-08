@@ -1,4 +1,4 @@
-{
+﻿{
   "credit": "KhyxRPG 3D Volumetric Chaotic Explosion Cluster (archer_fire_burst_f2)",
   "textures": {
     "0": "khyxrpg:item/vfx/archer_fire_burst_f2",
@@ -29,7 +29,7 @@
       "to": [18, 8.01, 18],
       "faces": {
         "up": {"uv": [0, 0, 16, 16], "texture": "#0"},
-        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+        "down": {"uv": [0, 0, 16, 16], "texture": "#0"}
       }
     },
     {
@@ -99,7 +99,7 @@
       "rotation": {"angle": 22.5, "axis": "x", "origin": [8, 12, 8]},
       "faces": {
         "up": {"uv": [0, 0, 16, 16], "texture": "#0"},
-        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+        "down": {"uv": [0, 0, 16, 16], "texture": "#0"}
       }
     },
     {
