@@ -1,1 +1,8 @@
-{"pack":{"pack_format":46,"supported_formats":{"min_inclusive":15,"max_inclusive":999},"description":"KhyxRPG Skill Icons"}}
+{
+  "pack": {
+    "pack_format": 46,
+    "min_format": 34,
+    "max_format": 120,
+    "description": "KhyxRPG Skill Icons"
+  }
+}
