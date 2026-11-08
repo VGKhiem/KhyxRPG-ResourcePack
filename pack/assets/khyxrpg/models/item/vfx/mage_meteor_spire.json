@@ -1,0 +1,84 @@
+{
+  "credit": "KhyxRPG 3D Molten Astral Meteor Spire (Mage Skill 1)",
+  "textures": {
+    "0": "khyxrpg:item/vfx/mage_meteor_spire",
+    "particle": "khyxrpg:item/vfx/mage_meteor_spire"
+  },
+  "elements": [
+    {
+      "name": "spire_core_base",
+      "from": [ 4.0, 0.0, 4.0 ],
+      "to": [ 12.0, 7.0, 12.0 ],
+      "faces": {
+        "north": { "uv": [ 0, 8, 8, 16 ], "texture": "#0" },
+        "east":  { "uv": [ 0, 8, 8, 16 ], "texture": "#0" },
+        "south": { "uv": [ 0, 8, 8, 16 ], "texture": "#0" },
+        "west":  { "uv": [ 0, 8, 8, 16 ], "texture": "#0" },
+        "up":    { "uv": [ 0, 0, 8, 8 ], "texture": "#0" },
+        "down":  { "uv": [ 0, 0, 8, 8 ], "texture": "#0" }
+      }
+    },
+    {
+      "name": "spire_core_mid",
+      "from": [ 5.0, 6.5, 5.0 ],
+      "to": [ 11.0, 14.0, 11.0 ],
+      "faces": {
+        "north": { "uv": [ 2, 4, 10, 12 ], "texture": "#0" },
+        "east":  { "uv": [ 2, 4, 10, 12 ], "texture": "#0" },
+        "south": { "uv": [ 2, 4, 10, 12 ], "texture": "#0" },
+        "west":  { "uv": [ 2, 4, 10, 12 ], "texture": "#0" },
+        "up":    { "uv": [ 0, 0, 6, 6 ], "texture": "#0" }
+      }
+    },
+    {
+      "name": "spire_tip_sharp",
+      "from": [ 6.2, 13.5, 6.2 ],
+      "to": [ 9.8, 19.5, 9.8 ],
+      "faces": {
+        "north": { "uv": [ 4, 0, 8, 8 ], "texture": "#0" },
+        "east":  { "uv": [ 4, 0, 8, 8 ], "texture": "#0" },
+        "south": { "uv": [ 4, 0, 8, 8 ], "texture": "#0" },
+        "west":  { "uv": [ 4, 0, 8, 8 ], "texture": "#0" },
+        "up":    { "uv": [ 6, 0, 8, 2 ], "texture": "#0" }
+      }
+    },
+    {
+      "name": "spire_facet_diag1",
+      "from": [ 4.8, 1.0, 4.8 ],
+      "to": [ 11.2, 11.0, 11.2 ],
+      "rotation": { "angle": 45, "axis": "y", "origin": [ 8, 6, 8 ] },
+      "faces": {
+        "north": { "uv": [ 8, 8, 16, 16 ], "texture": "#0" },
+        "east":  { "uv": [ 8, 8, 16, 16 ], "texture": "#0" },
+        "south": { "uv": [ 8, 8, 16, 16 ], "texture": "#0" },
+        "west":  { "uv": [ 8, 8, 16, 16 ], "texture": "#0" }
+      }
+    },
+    {
+      "name": "spire_outcrop_side",
+      "from": [ 2.5, 0.0, 5.0 ],
+      "to": [ 6.0, 5.5, 9.0 ],
+      "rotation": { "angle": -15, "axis": "z", "origin": [ 4, 0, 7 ] },
+      "faces": {
+        "north": { "uv": [ 0, 4, 4, 12 ], "texture": "#0" },
+        "east":  { "uv": [ 0, 4, 4, 12 ], "texture": "#0" },
+        "south": { "uv": [ 0, 4, 4, 12 ], "texture": "#0" },
+        "west":  { "uv": [ 0, 4, 4, 12 ], "texture": "#0" },
+        "up":    { "uv": [ 0, 0, 4, 4 ], "texture": "#0" }
+      }
+    },
+    {
+      "name": "spire_outcrop_opp",
+      "from": [ 10.0, 0.0, 7.0 ],
+      "to": [ 13.5, 6.0, 11.0 ],
+      "rotation": { "angle": 18, "axis": "z", "origin": [ 12, 0, 9 ] },
+      "faces": {
+        "north": { "uv": [ 8, 4, 12, 12 ], "texture": "#0" },
+        "east":  { "uv": [ 8, 4, 12, 12 ], "texture": "#0" },
+        "south": { "uv": [ 8, 4, 12, 12 ], "texture": "#0" },
+        "west":  { "uv": [ 8, 4, 12, 12 ], "texture": "#0" },
+        "up":    { "uv": [ 8, 0, 12, 4 ], "texture": "#0" }
+      }
+    }
+  ]
+}
