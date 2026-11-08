@@ -1,0 +1,18 @@
+{
+  "credit": "KhyxRPG Crescent Slash (assassin_slash_r2l_f4)",
+  "textures": {
+    "0": "khyxrpg:item/vfx/assassin_slash_r2l_f4",
+    "particle": "khyxrpg:item/vfx/assassin_slash_r2l_f4"
+  },
+  "elements": [
+    {
+      "name": "single_crescent_sheet",
+      "from": [-8.0, 7.95, -8.0],
+      "to": [24.0, 8.05, 24.0],
+      "faces": {
+        "up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "down": {"uv": [0, 16, 16, 0], "texture": "#0"}
+      }
+    }
+  ]
+}
