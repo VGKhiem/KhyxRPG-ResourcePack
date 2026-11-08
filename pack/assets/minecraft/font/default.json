@@ -1,22 +1,79 @@
 {
- "providers": [
-  {
-   "type": "bitmap",
-   "file": "khyxrpg:font/khyxrpg_logo.png",
-   "ascent": 21,
-   "height": 22,
-   "chars": [
-    "\ue200"
-   ]
-  },
-  {
-   "type": "bitmap",
-   "file": "khyxrpg:font/khyxrpg_logo_small.png",
-   "ascent": 15,
-   "height": 16,
-   "chars": [
-    "\ue201"
-   ]
-  }
- ]
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 4,
+        "\uf801": -1,
+        "\uf802": -2,
+        "\uf803": -3,
+        "\uf804": -4,
+        "\uf805": -5,
+        "\uf806": -6,
+        "\uf807": -7,
+        "\uf808": -8,
+        "\uf809": -16,
+        "\uf80a": -32,
+        "\uf80b": -64,
+        "\uf80c": -128,
+        "\uf821": 1,
+        "\uf822": 2,
+        "\uf823": 3,
+        "\uf824": 4,
+        "\uf825": 5,
+        "\uf826": 6,
+        "\uf827": 7,
+        "\uf828": 8,
+        "\uf829": 16,
+        "\uf82a": 32,
+        "\uf82b": 64,
+        "\uf82c": 128
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:font/khyxrpg_logo.png",
+      "ascent": 23,
+      "height": 24,
+      "chars": [
+        "\ue200"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:font/khyxrpg_logo_small.png",
+      "ascent": 15,
+      "height": 16,
+      "chars": [
+        "\ue201"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:gui/gui_4row.png",
+      "ascent": 14,
+      "height": 186,
+      "chars": [
+        "\ue304"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:gui/gui_3row.png",
+      "ascent": 14,
+      "height": 166,
+      "chars": [
+        "\ue303"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:gui/gui_1row.png",
+      "ascent": 14,
+      "height": 133,
+      "chars": [
+        "\ue301"
+      ]
+    }
+  ]
 }
