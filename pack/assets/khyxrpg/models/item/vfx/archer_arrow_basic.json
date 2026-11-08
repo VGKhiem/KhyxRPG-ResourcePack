@@ -6,153 +6,41 @@
   },
   "elements": [
     {
-      "name": "blade_plane_v",
-      "from": [
-        7.98,
-        6.23,
-        0.0
-      ],
-      "to": [
-        8.02,
-        9.77,
-        16.0
-      ],
+      "name": "plane_horizontal",
+      "from": [ 2.5, 8.0, 0.0 ],
+      "to": [ 13.5, 8.05, 16.0 ],
       "faces": {
-        "east": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#0"
-        },
-        "west": {
-          "uv": [
-            16,
-            0,
-            0,
-            16
-          ],
-          "texture": "#0"
-        }
+        "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+        "down": { "uv": [ 0, 16, 16, 0 ], "texture": "#0" }
       }
     },
     {
-      "name": "blade_plane_h",
-      "from": [
-        6.23,
-        7.98,
-        0.0
-      ],
-      "to": [
-        9.77,
-        8.02,
-        16.0
-      ],
+      "name": "plane_vertical",
+      "from": [ 8.0, 2.5, 0.0 ],
+      "to": [ 8.05, 13.5, 16.0 ],
       "faces": {
-        "up": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#0"
-        },
-        "down": {
-          "uv": [
-            16,
-            0,
-            0,
-            16
-          ],
-          "texture": "#0"
-        }
+        "east": { "uv": [ 0, 0, 16, 16 ], "rotation": 90, "texture": "#0" },
+        "west": { "uv": [ 0, 0, 16, 16 ], "rotation": 270, "texture": "#0" }
       }
     },
     {
-      "name": "blade_plane_diag1",
-      "from": [
-        6.23,
-        7.98,
-        0.0
-      ],
-      "to": [
-        9.77,
-        8.02,
-        16.0
-      ],
-      "rotation": {
-        "angle": 45,
-        "axis": "z",
-        "origin": [
-          8.0,
-          8.0,
-          8.0
-        ]
-      },
+      "name": "plane_diag1",
+      "from": [ 2.5, 8.0, 0.0 ],
+      "to": [ 13.5, 8.05, 16.0 ],
+      "rotation": { "angle": 45, "axis": "z", "origin": [ 8, 8, 8 ] },
       "faces": {
-        "up": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#0"
-        },
-        "down": {
-          "uv": [
-            16,
-            0,
-            0,
-            16
-          ],
-          "texture": "#0"
-        }
+        "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+        "down": { "uv": [ 0, 16, 16, 0 ], "texture": "#0" }
       }
     },
     {
-      "name": "blade_plane_diag2",
-      "from": [
-        6.23,
-        7.98,
-        0.0
-      ],
-      "to": [
-        9.77,
-        8.02,
-        16.0
-      ],
-      "rotation": {
-        "angle": -45,
-        "axis": "z",
-        "origin": [
-          8.0,
-          8.0,
-          8.0
-        ]
-      },
+      "name": "plane_diag2",
+      "from": [ 2.5, 8.0, 0.0 ],
+      "to": [ 13.5, 8.05, 16.0 ],
+      "rotation": { "angle": -45, "axis": "z", "origin": [ 8, 8, 8 ] },
       "faces": {
-        "up": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#0"
-        },
-        "down": {
-          "uv": [
-            16,
-            0,
-            0,
-            16
-          ],
-          "texture": "#0"
-        }
+        "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+        "down": { "uv": [ 0, 16, 16, 0 ], "texture": "#0" }
       }
     }
   ]
