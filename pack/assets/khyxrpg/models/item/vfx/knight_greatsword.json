@@ -1,0 +1,47 @@
+{
+  "credit": "KhyxRPG 3D Multi-Cross Holy Greatsword (Knight Skill 4)",
+  "textures": {
+    "0": "khyxrpg:item/vfx/knight_greatsword",
+    "particle": "khyxrpg:item/vfx/knight_greatsword"
+  },
+  "elements": [
+    {
+      "name": "blade_face_main",
+      "from": [ 0.0, 0.0, 7.98 ],
+      "to": [ 16.0, 16.0, 8.02 ],
+      "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+        "south": { "uv": [ 16, 0, 0, 16 ], "texture": "#0" }
+      }
+    },
+    {
+      "name": "blade_face_perp",
+      "from": [ 7.98, 0.0, 0.0 ],
+      "to": [ 8.02, 16.0, 16.0 ],
+      "faces": {
+        "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+        "west": { "uv": [ 16, 0, 0, 16 ], "texture": "#0" }
+      }
+    },
+    {
+      "name": "blade_face_diag1",
+      "from": [ 0.0, 0.0, 7.98 ],
+      "to": [ 16.0, 16.0, 8.02 ],
+      "rotation": { "angle": 45, "axis": "y", "origin": [ 8, 8, 8 ] },
+      "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+        "south": { "uv": [ 16, 0, 0, 16 ], "texture": "#0" }
+      }
+    },
+    {
+      "name": "blade_face_diag2",
+      "from": [ 0.0, 0.0, 7.98 ],
+      "to": [ 16.0, 16.0, 8.02 ],
+      "rotation": { "angle": -45, "axis": "y", "origin": [ 8, 8, 8 ] },
+      "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+        "south": { "uv": [ 16, 0, 0, 16 ], "texture": "#0" }
+      }
+    }
+  ]
+}
