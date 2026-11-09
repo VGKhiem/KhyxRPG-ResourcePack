@@ -389,6 +389,10 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/unifont"
     }
   ]
 }
