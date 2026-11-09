@@ -87,7 +87,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_0.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue100"
@@ -96,7 +96,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_1.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue101"
@@ -105,7 +105,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_2.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue102"
@@ -114,7 +114,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_3.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue103"
@@ -123,7 +123,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_4.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue104"
@@ -132,7 +132,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_5.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue105"
@@ -141,7 +141,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_6.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue106"
@@ -150,7 +150,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_7.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue107"
@@ -159,7 +159,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_8.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue108"
@@ -168,7 +168,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_9.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue109"
@@ -177,7 +177,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_health_10.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue10a"
@@ -186,7 +186,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_0.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue110"
@@ -195,7 +195,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_1.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue111"
@@ -204,7 +204,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_2.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue112"
@@ -213,7 +213,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_3.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue113"
@@ -222,7 +222,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_4.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue114"
@@ -231,7 +231,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_5.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue115"
@@ -240,7 +240,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_6.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue116"
@@ -249,7 +249,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_7.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue117"
@@ -258,7 +258,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_8.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue118"
@@ -267,7 +267,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_9.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue119"
@@ -276,7 +276,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:hud/hud_mana_10.png",
-      "ascent": -15,
+      "ascent": -11,
       "height": 22,
       "chars": [
         "\ue11a"
@@ -284,17 +284,8 @@
     },
     {
       "type": "bitmap",
-      "file": "khyxrpg:hud/hud_center.png",
-      "ascent": -15,
-      "height": 22,
-      "chars": [
-        "\ue120"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "khyxrpg:font/hud_digits.png",
-      "ascent": -18,
+      "ascent": -14,
       "height": 8,
       "chars": [
         "\ue030\ue031\ue032\ue033\ue034\ue035\ue036\ue037\ue038\ue039\ue02f"
