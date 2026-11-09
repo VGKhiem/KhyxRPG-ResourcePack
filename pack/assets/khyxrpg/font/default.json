@@ -394,7 +394,7 @@
     {
       "type": "bitmap",
       "file": "khyxrpg:font/hud_level_digits.png",
-      "ascent": -30,
+      "ascent": -32,
       "height": 8,
       "chars": [
         ""

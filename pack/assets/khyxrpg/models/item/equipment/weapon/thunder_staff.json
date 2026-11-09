@@ -2,7 +2,6 @@
   "credit": "PineJo Magic Staffs Vol 1",
   "textures": {
     "0": "khyxrpg:item/equipment/weapon/thunder_staff_t0",
-    "2": "khyxrpg:item/equipment/weapon/thunder_staff_t2",
     "3": "khyxrpg:item/equipment/weapon/thunder_staff_t3",
     "4": "khyxrpg:item/equipment/weapon/thunder_staff_t4",
     "5": "khyxrpg:item/equipment/weapon/thunder_staff_t5",
@@ -372,83 +371,6 @@
             5,
             9,
             6
-          ]
-        }
-      }
-    },
-    {
-      "from": [
-        8,
-        21,
-        9
-      ],
-      "to": [
-        8,
-        32,
-        17
-      ],
-      "rotation": {
-        "origin": [
-          8,
-          26.5,
-          13
-        ],
-        "axis": "x",
-        "angle": 22.5
-      },
-      "faces": {
-        "north": {
-          "texture": "#2",
-          "uv": [
-            0,
-            0,
-            0,
-            11
-          ]
-        },
-        "east": {
-          "texture": "#2",
-          "uv": [
-            0,
-            0,
-            8,
-            11
-          ]
-        },
-        "south": {
-          "texture": "#2",
-          "uv": [
-            0,
-            0,
-            0,
-            11
-          ]
-        },
-        "west": {
-          "texture": "#2",
-          "uv": [
-            8,
-            0,
-            0,
-            11
-          ]
-        },
-        "up": {
-          "texture": "#2",
-          "uv": [
-            0,
-            8,
-            0,
-            0
-          ]
-        },
-        "down": {
-          "texture": "#2",
-          "uv": [
-            0,
-            0,
-            0,
-            8
           ]
         }
       }
