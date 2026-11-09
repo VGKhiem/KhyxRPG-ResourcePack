@@ -391,6 +391,24 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_level_diamond.png",
+      "ascent": -45,
+      "height": 24,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:font/hud_level_digits.png",
+      "ascent": -53,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "reference",
       "id": "minecraft:include/unifont"
     }
