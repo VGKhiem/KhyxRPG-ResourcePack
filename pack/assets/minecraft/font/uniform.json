@@ -393,8 +393,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_0.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -402,8 +402,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_1.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -411,8 +411,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_2.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -420,8 +420,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_3.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -429,8 +429,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_4.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -438,8 +438,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_5.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -447,8 +447,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_6.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -456,8 +456,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_7.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -465,8 +465,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_8.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -474,8 +474,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_9.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -483,8 +483,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:hud/hud_level_diamond_10.png",
-            "ascent": -38,
-            "height": 27,
+            "ascent": -48,
+            "height": 17,
             "chars": [
                 ""
             ]
@@ -492,7 +492,7 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:font/hud_level_digits.png",
-            "ascent": -47,
+            "ascent": -52,
             "height": 8,
             "chars": [
                 ""
