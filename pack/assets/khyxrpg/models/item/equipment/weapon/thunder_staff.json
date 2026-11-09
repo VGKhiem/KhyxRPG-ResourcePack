@@ -5,7 +5,8 @@
     "2": "khyxrpg:item/equipment/weapon/thunder_staff_t2",
     "3": "khyxrpg:item/equipment/weapon/thunder_staff_t3",
     "5": "khyxrpg:item/equipment/weapon/thunder_staff_t5",
-    "4": "khyxrpg:item/equipment/weapon/thunder_staff_t4"
+    "4": "khyxrpg:item/equipment/weapon/thunder_staff_t4",
+    "particle": "khyxrpg:item/equipment/weapon/thunder_staff_t0"
   },
   "elements": [
     {

@@ -3,7 +3,8 @@
   "textures": {
     "1": "khyxrpg:item/equipment/weapon/spider_queen_staff_t1",
     "2": "khyxrpg:item/equipment/weapon/spider_queen_staff_t2",
-    "3": "khyxrpg:item/equipment/weapon/spider_queen_staff_t3"
+    "3": "khyxrpg:item/equipment/weapon/spider_queen_staff_t3",
+    "particle": "khyxrpg:item/equipment/weapon/spider_queen_staff_t1"
   },
   "elements": [
     {

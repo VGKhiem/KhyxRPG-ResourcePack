@@ -1,7 +1,8 @@
 {
   "credit": "by w11shes",
   "textures": {
-    "0": "khyxrpg:item/equipment/weapon/warrior_shield"
+    "0": "khyxrpg:item/equipment/weapon/warrior_shield",
+    "particle": "khyxrpg:item/equipment/weapon/warrior_shield"
   },
   "elements": [
     {

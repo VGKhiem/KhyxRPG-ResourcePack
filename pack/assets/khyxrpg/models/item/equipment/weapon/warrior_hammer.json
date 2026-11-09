@@ -1,7 +1,8 @@
 {
   "credit": "by w11shes",
   "textures": {
-    "0": "khyxrpg:item/equipment/weapon/warrior_hammer"
+    "0": "khyxrpg:item/equipment/weapon/warrior_hammer",
+    "particle": "khyxrpg:item/equipment/weapon/warrior_hammer"
   },
   "elements": [
     {

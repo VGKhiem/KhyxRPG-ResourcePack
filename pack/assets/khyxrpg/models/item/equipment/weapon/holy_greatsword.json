@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "khyxrpg:item/equipment/weapon/holy_greatsword"
+    "layer0": "khyxrpg:item/equipment/weapon/holy_greatsword",
+    "particle": "khyxrpg:item/equipment/weapon/holy_greatsword"
   }
 }

@@ -1,7 +1,8 @@
 {
   "credit": "by w11shes",
   "textures": {
-    "0": "khyxrpg:item/equipment/armor/warrior_helmet"
+    "0": "khyxrpg:item/equipment/armor/warrior_helmet",
+    "particle": "khyxrpg:item/equipment/armor/warrior_helmet"
   },
   "elements": [
     {

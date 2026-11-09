@@ -1,7 +1,8 @@
 {
   "credit": "by w11shes",
   "textures": {
-    "0": "khyxrpg:item/equipment/weapon/warrior_crossbow"
+    "0": "khyxrpg:item/equipment/weapon/warrior_crossbow",
+    "particle": "khyxrpg:item/equipment/weapon/warrior_crossbow"
   },
   "elements": [
     {

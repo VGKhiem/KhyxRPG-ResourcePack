@@ -3,7 +3,8 @@
   "textures": {
     "0": "khyxrpg:item/equipment/weapon/soul_fire_staff_t0",
     "1": "khyxrpg:item/equipment/weapon/soul_fire_staff_t1",
-    "2": "khyxrpg:item/equipment/weapon/soul_fire_staff_t2"
+    "2": "khyxrpg:item/equipment/weapon/soul_fire_staff_t2",
+    "particle": "khyxrpg:item/equipment/weapon/soul_fire_staff_t0"
   },
   "elements": [
     {

@@ -7,7 +7,8 @@
     "3": "khyxrpg:item/equipment/weapon/bee_keeper_staff_t3",
     "4": "khyxrpg:item/equipment/weapon/bee_keeper_staff_t4",
     "5": "khyxrpg:item/equipment/weapon/bee_keeper_staff_t5",
-    "6": "khyxrpg:item/equipment/weapon/bee_keeper_staff_t6"
+    "6": "khyxrpg:item/equipment/weapon/bee_keeper_staff_t6",
+    "particle": "khyxrpg:item/equipment/weapon/bee_keeper_staff_t0"
   },
   "elements": [
     {

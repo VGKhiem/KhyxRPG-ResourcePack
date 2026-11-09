@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "khyxrpg:item/equipment/weapon/royal_shield"
+    "layer0": "khyxrpg:item/equipment/weapon/royal_shield",
+    "particle": "khyxrpg:item/equipment/weapon/royal_shield"
   }
 }

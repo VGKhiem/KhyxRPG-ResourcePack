@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "khyxrpg:item/equipment/armor/warrior_chestplate"
+    "layer0": "khyxrpg:item/equipment/armor/warrior_chestplate",
+    "particle": "khyxrpg:item/equipment/armor/warrior_chestplate"
   }
 }
