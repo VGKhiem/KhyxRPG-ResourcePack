@@ -4,30 +4,30 @@
       "type": "space",
       "advances": {
         " ": 4,
-        "\uf801": -1,
-        "\uf802": -2,
-        "\uf803": -3,
-        "\uf804": -4,
-        "\uf805": -5,
-        "\uf806": -6,
-        "\uf807": -7,
-        "\uf808": -8,
-        "\uf809": -16,
-        "\uf80a": -32,
-        "\uf80b": -64,
-        "\uf80c": -128,
-        "\uf821": 1,
-        "\uf822": 2,
-        "\uf823": 3,
-        "\uf824": 4,
-        "\uf825": 5,
-        "\uf826": 6,
-        "\uf827": 7,
-        "\uf828": 8,
-        "\uf829": 16,
-        "\uf82a": 32,
-        "\uf82b": 64,
-        "\uf82c": 128
+        "": -1,
+        "": -2,
+        "": -3,
+        "": -4,
+        "": -5,
+        "": -6,
+        "": -7,
+        "": -8,
+        "": -16,
+        "": -32,
+        "": -64,
+        "": -128,
+        "": 1,
+        "": 2,
+        "": 3,
+        "": 4,
+        "": 5,
+        "": 6,
+        "": 7,
+        "": 8,
+        "": 16,
+        "": 32,
+        "": 64,
+        "": 128
       }
     },
     {
@@ -36,7 +36,7 @@
       "ascent": 23,
       "height": 24,
       "chars": [
-        "\ue200"
+        ""
       ]
     },
     {
@@ -45,7 +45,7 @@
       "ascent": 15,
       "height": 16,
       "chars": [
-        "\ue201"
+        ""
       ]
     },
     {
@@ -54,7 +54,7 @@
       "ascent": 14,
       "height": 186,
       "chars": [
-        "\ue304"
+        ""
       ]
     },
     {
@@ -63,7 +63,7 @@
       "ascent": 14,
       "height": 166,
       "chars": [
-        "\ue303"
+        ""
       ]
     },
     {
@@ -72,7 +72,7 @@
       "ascent": 14,
       "height": 151,
       "chars": [
-        "\ue302"
+        ""
       ]
     },
     {
@@ -81,7 +81,7 @@
       "ascent": 14,
       "height": 133,
       "chars": [
-        "\ue301"
+        ""
       ]
     },
     {
@@ -90,7 +90,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue100"
+        ""
       ]
     },
     {
@@ -99,7 +99,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue101"
+        ""
       ]
     },
     {
@@ -108,7 +108,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue102"
+        ""
       ]
     },
     {
@@ -117,7 +117,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue103"
+        ""
       ]
     },
     {
@@ -126,7 +126,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue104"
+        ""
       ]
     },
     {
@@ -135,7 +135,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue105"
+        ""
       ]
     },
     {
@@ -144,7 +144,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue106"
+        ""
       ]
     },
     {
@@ -153,7 +153,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue107"
+        ""
       ]
     },
     {
@@ -162,7 +162,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue108"
+        ""
       ]
     },
     {
@@ -171,7 +171,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue109"
+        ""
       ]
     },
     {
@@ -180,7 +180,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue10a"
+        ""
       ]
     },
     {
@@ -189,7 +189,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue110"
+        ""
       ]
     },
     {
@@ -198,7 +198,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue111"
+        ""
       ]
     },
     {
@@ -207,7 +207,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue112"
+        ""
       ]
     },
     {
@@ -216,7 +216,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue113"
+        ""
       ]
     },
     {
@@ -225,7 +225,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue114"
+        ""
       ]
     },
     {
@@ -234,7 +234,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue115"
+        ""
       ]
     },
     {
@@ -243,7 +243,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue116"
+        ""
       ]
     },
     {
@@ -252,7 +252,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue117"
+        ""
       ]
     },
     {
@@ -261,7 +261,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue118"
+        ""
       ]
     },
     {
@@ -270,7 +270,7 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue119"
+        ""
       ]
     },
     {
@@ -279,7 +279,106 @@
       "ascent": -11,
       "height": 22,
       "chars": [
-        "\ue11a"
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_0.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_1.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_2.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_3.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_4.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_5.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_6.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_7.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_8.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_9.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "khyxrpg:hud/hud_stamina_10.png",
+      "ascent": -11,
+      "height": 22,
+      "chars": [
+        ""
       ]
     },
     {
@@ -288,7 +387,7 @@
       "ascent": -14,
       "height": 8,
       "chars": [
-        "\ue030\ue031\ue032\ue033\ue034\ue035\ue036\ue037\ue038\ue039\ue02f"
+        ""
       ]
     }
   ]
