@@ -654,6 +654,40 @@
                                                 1.5,
                                                 1.5
                                             ]
-                              }
+                              },
+                    "thirdperson_lefthand":  {
+                                                 "rotation":  [
+                                                                  0,
+                                                                  -90,
+                                                                  0
+                                                              ],
+                                                 "translation":  [
+                                                                     0,
+                                                                     7.5,
+                                                                     1.5
+                                                                 ],
+                                                 "scale":  [
+                                                               0.55,
+                                                               0.55,
+                                                               0.55
+                                                           ]
+                                             },
+                    "firstperson_lefthand":  {
+                                                 "rotation":  [
+                                                                  7.75,
+                                                                  -90,
+                                                                  0
+                                                              ],
+                                                 "translation":  [
+                                                                     -5,
+                                                                     5.25,
+                                                                     0
+                                                                 ],
+                                                 "scale":  [
+                                                               0.29883,
+                                                               0.29883,
+                                                               0.29883
+                                                           ]
+                                             }
                 }
 }
