@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "khyxrpg:tugkan_sakura_ghost"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "khyxrpg:tugkan_sakura_ghost"
+      }
+    ]
+  }
+}

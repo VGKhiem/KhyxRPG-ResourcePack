@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "khyxrpg:tugkan_ice_viking"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "khyxrpg:tugkan_ice_viking"
+      }
+    ]
+  }
+}

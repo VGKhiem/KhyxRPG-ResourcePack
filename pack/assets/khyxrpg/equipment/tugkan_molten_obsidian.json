@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "khyxrpg:tugkan_molten_obsidian"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "khyxrpg:tugkan_molten_obsidian"
+      }
+    ]
+  }
+}
