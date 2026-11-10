@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "khyxrpg:entity/equipment/humanoid/wc_warrior_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "khyxrpg:entity/equipment/humanoid_leggings/wc_warrior_armor"
+      }
+    ]
+  }
+}
