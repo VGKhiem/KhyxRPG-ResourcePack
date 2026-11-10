@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "khyxrpg:item/equipment/armor/armory_destroyer_helmet",
-    "particle": "khyxrpg:item/equipment/armor/armory_destroyer_helmet"
-  }
-}
