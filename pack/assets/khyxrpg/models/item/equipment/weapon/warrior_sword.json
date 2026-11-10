@@ -1,4 +1,4 @@
-﻿{
+{
     "credit":  "by w11shes",
     "textures":  {
                      "0":  "khyxrpg:item/equipment/weapon/warrior_sword",
@@ -679,7 +679,7 @@
                                                                   0
                                                               ],
                                                  "translation":  [
-                                                                     -5,
+                                                                     5,
                                                                      5.25,
                                                                      0
                                                                  ],
