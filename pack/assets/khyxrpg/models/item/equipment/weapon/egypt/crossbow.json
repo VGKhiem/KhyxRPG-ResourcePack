@@ -1,9 +1,8 @@
 {
-  "format_version": "1.9.0",
   "credit": "Made with Blockbench",
   "texture_size": [
-    128,
-    128
+    256,
+    256
   ],
   "textures": {
     "0": "khyxrpg:item/equipment/weapon/egypt/egypt_anubis_texture",
@@ -1756,6 +1755,5 @@
         1.56408
       ]
     }
-  },
-  "mcmodels": ""
+  }
 }
