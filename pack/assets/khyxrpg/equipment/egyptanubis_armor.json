@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "khyxrpg:egyptanubis_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "khyxrpg:egyptanubis_armor"
+      }
+    ]
+  }
+}
