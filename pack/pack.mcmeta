@@ -1,7 +1,1 @@
-{
-  "pack": {
-    "pack_format": 46,
-    "supported_formats": [34, 64],
-    "description": "KhyxRPG Skill Icons"
-  }
-}
+{"pack":{"pack_format":64,"supported_formats":[64,999],"description":"KhyxRPG Skill Icons"}}
