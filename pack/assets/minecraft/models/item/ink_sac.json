@@ -3,17 +3,8 @@
   "textures": {
     "layer0": "minecraft:item/ink_sac"
   },
-  "overrides": [
-    { "predicate": { "custom_model_data": 13371110 }, "model": "littleroom_ignevar:flamethrower/flamethrower_01" },
-    { "predicate": { "custom_model_data": 13371111 }, "model": "littleroom_ignevar:flamethrower/flamethrower_02" },
-    { "predicate": { "custom_model_data": 13371112 }, "model": "littleroom_ignevar:flamethrower/flamethrower_03" },
-    { "predicate": { "custom_model_data": 13371113 }, "model": "littleroom_ignevar:flamethrower/flamethrower_04" },
-    { "predicate": { "custom_model_data": 13371114 }, "model": "littleroom_ignevar:flamethrower/flamethrower_05" },
-    { "predicate": { "custom_model_data": 13371115 }, "model": "littleroom_ignevar:flamethrower/flamethrower_06" },
-    { "predicate": { "custom_model_data": 13371116 }, "model": "littleroom_ignevar:flamethrower/flamethrower_07" },
-    { "predicate": { "custom_model_data": 13371117 }, "model": "littleroom_ignevar:flamethrower/flamethrower_08" },
-    { "predicate": { "custom_model_data": 13371118 }, "model": "littleroom_ignevar:flamethrower/flamethrower_09" },
-    { "predicate": { "custom_model_data": 13371119 }, "model": "littleroom_ignevar:flamethrower/flamethrower_10" },
-    { "predicate": { "custom_model_data": 13371120 }, "model": "littleroom_ignevar:dhazards_buildtool" }
-  ]
+    "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "littleroom_nil:items/nil_sword"},
+		{"predicate": {"custom_model_data":2}, "model": "littleroom_nil:items/nil_head"}
+        ]
 }

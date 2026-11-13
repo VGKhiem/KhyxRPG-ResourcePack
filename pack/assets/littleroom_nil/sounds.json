@@ -1,0 +1,76 @@
+{
+   "littleroom.nil.death":{
+		 "sounds": [
+			"littleroom/nil/death"
+		 ]
+	},
+   "littleroom.nil.ground_break":{
+		 "sounds": [
+			"littleroom/nil/ground_break_1",
+			"littleroom/nil/ground_break_2",
+			"littleroom/nil/ground_break_3"
+		 ]
+	},
+   "littleroom.nil.grunt":{
+		 "sounds": [
+			"littleroom/nil/grunt_1",
+			"littleroom/nil/grunt_2",
+			"littleroom/nil/grunt_3",
+			"littleroom/nil/grunt_4",
+			"littleroom/nil/grunt_5"
+		 ]
+	},
+   "littleroom.nil.grunt_big":{
+		 "sounds": [
+			"littleroom/nil/grunt_big_1",
+			"littleroom/nil/grunt_big_2",
+			"littleroom/nil/grunt_big_3"
+		 ]
+	},
+   "littleroom.nil.hit":{
+		 "sounds": [
+			"littleroom/nil/hit_1",
+			"littleroom/nil/hit_2",
+			"littleroom/nil/hit_3",
+			"littleroom/nil/hit_4"
+		 ]
+	},
+   "littleroom.nil.step_run":{
+		 "sounds": [
+			"littleroom/nil/step_run_1",
+			"littleroom/nil/step_run_2",
+			"littleroom/nil/step_run_3"
+		 ]
+	},
+   "littleroom.nil.step_walk":{
+		 "sounds": [
+			"littleroom/nil/step_walk_1",
+			"littleroom/nil/step_walk_2",
+			"littleroom/nil/step_walk_3"
+		 ]
+	},
+   "littleroom.nil.swing":{
+		 "sounds": [
+			"littleroom/nil/swing_1",
+			"littleroom/nil/swing_2"
+		 ]
+	},
+   "littleroom.nil.sword_hit":{
+		 "sounds": [
+			"littleroom/nil/sword_hit_1",
+			"littleroom/nil/sword_hit_2",
+			"littleroom/nil/sword_hit_3",
+			"littleroom/nil/sword_hit_4"
+		 ]
+	},
+   "littleroom.nil.sword_swing":{
+		 "sounds": [
+			"littleroom/nil/sword_swing_1"
+		 ]
+	},
+   "littleroom.nil.yell":{
+		 "sounds": [
+			"littleroom/nil/yell"
+		 ]
+	}
+}
