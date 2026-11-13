@@ -1,8 +1,10 @@
 {
-  "music.theme": [
-    {
-      "name": "khyxrpg:music/kiravale_medieval",
-      "stream": true
-    }
-  ]
+  "music.theme": {
+    "sounds": [
+      {
+        "name": "khyxrpg:music/kiravale_medieval",
+        "stream": true
+      }
+    ]
+  }
 }
