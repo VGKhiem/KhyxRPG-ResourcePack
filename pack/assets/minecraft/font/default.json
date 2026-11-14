@@ -2065,6 +2065,186 @@
                                     ]
                       },
                       {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/effect.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/effect_red.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/effect_orange.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/effect_yellow.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/effect_green.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/effect_aqua.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/effect_blue.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/effect_purple.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/effect_pink.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/effect_gray.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/talent.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/talent_red.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/talent_orange.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/talent_yellow.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/talent_green.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/talent_aqua.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/talent_blue.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/talent_purple.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/talent_pink.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/talent_gray.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
                           "type":  "reference",
                           "id":  "minecraft:include/unifont"
                       }
