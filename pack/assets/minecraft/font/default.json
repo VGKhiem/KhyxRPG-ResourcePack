@@ -1867,6 +1867,15 @@
                                     ]
                       },
                       {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/additional_money.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
                           "type":  "reference",
                           "id":  "minecraft:include/unifont"
                       }
