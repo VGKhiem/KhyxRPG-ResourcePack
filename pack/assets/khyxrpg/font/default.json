@@ -1,404 +1,1222 @@
 {
-  "providers": [
-    {
-      "type": "space",
-      "advances": {
-        " ": 4,
-        "": -1,
-        "": -2,
-        "": -3,
-        "": -4,
-        "": -5,
-        "": -6,
-        "": -7,
-        "": -8,
-        "": -16,
-        "": -32,
-        "": -64,
-        "": -128,
-        "": 1,
-        "": 2,
-        "": 3,
-        "": 4,
-        "": 5,
-        "": 6,
-        "": 7,
-        "": 8,
-        "": 16,
-        "": 32,
-        "": 64,
-        "": 128
-      }
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:font/khyxrpg_logo.png",
-      "ascent": 23,
-      "height": 24,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:font/khyxrpg_logo_small.png",
-      "ascent": 15,
-      "height": 16,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:gui/gui_4row.png",
-      "ascent": 14,
-      "height": 186,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:gui/gui_3row.png",
-      "ascent": 14,
-      "height": 166,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:gui/gui_2row.png",
-      "ascent": 14,
-      "height": 151,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:gui/gui_1row.png",
-      "ascent": 14,
-      "height": 133,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_0.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_1.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_2.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_3.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_4.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_5.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_6.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_7.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_8.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_9.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_health_10.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_0.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_1.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_2.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_3.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_4.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_5.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_6.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_7.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_8.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_9.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_mana_10.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_0.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_1.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_2.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_3.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_4.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_5.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_6.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_7.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_8.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_9.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:hud/hud_stamina_10.png",
-      "ascent": -11,
-      "height": 22,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:font/hud_digits.png",
-      "ascent": -15,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-
-    {
-      "type": "bitmap",
-      "file": "khyxrpg:font/hud_level_digits.png",
-      "ascent": -34,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    }
-  ]
+    "providers":  [
+                      {
+                          "type":  "space",
+                          "advances":  {
+                                           " ":  4,
+                                           "":  -1,
+                                           "":  -2,
+                                           "":  -3,
+                                           "":  -4,
+                                           "":  -5,
+                                           "":  -6,
+                                           "":  -7,
+                                           "":  -8,
+                                           "":  -16,
+                                           "":  -32,
+                                           "":  -64,
+                                           "":  -128,
+                                           "":  1,
+                                           "":  2,
+                                           "":  3,
+                                           "":  4,
+                                           "":  5,
+                                           "":  6,
+                                           "":  7,
+                                           "":  8,
+                                           "":  16,
+                                           "":  32,
+                                           "":  64,
+                                           "":  128
+                                       }
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/khyxrpg_logo.png",
+                          "ascent":  23,
+                          "height":  24,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/khyxrpg_logo_small.png",
+                          "ascent":  15,
+                          "height":  16,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/gui_4row.png",
+                          "ascent":  14,
+                          "height":  186,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/gui_3row.png",
+                          "ascent":  14,
+                          "height":  166,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/gui_2row.png",
+                          "ascent":  14,
+                          "height":  151,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/gui_1row.png",
+                          "ascent":  14,
+                          "height":  133,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_0.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_1.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_2.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_3.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_4.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_5.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_6.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_7.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_8.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_9.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_health_10.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_0.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_1.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_2.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_3.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_4.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_5.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_6.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_7.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_8.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_9.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_mana_10.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_0.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_1.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_2.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_3.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_4.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_5.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_6.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_7.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_8.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_9.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:hud/hud_stamina_10.png",
+                          "ascent":  -11,
+                          "height":  22,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/hud_digits.png",
+                          "ascent":  -15,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/hud_level_digits.png",
+                          "ascent":  -34,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/additional_experience.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/armor_toughness.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/aromr.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/arrow_potion_effects.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/arrow_velocity.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/artifact.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/attack_damage.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/attack_speed.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/autosmelt.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/block_cooldown_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/block_power.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/block_rating.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/blunt_power.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/blunt_rating.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/bouncing_crack.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/can_deconstruct.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/can_deskin.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/can_identify.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/command.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/common.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/cooldown_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/critical_strike_chance.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/critical_strike_power.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/damage_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/defense.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/dodge_cooldown_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/dodge_rating.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/durability.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/empty_gem_socket.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/epic.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/faction_damage_undead.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/fall_damage_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/filled_gem_socket.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/fire_damage_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem_stone_lore.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/handworn.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/health_regeneration.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/item_cooldown.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/knockback.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/knockback_resistance.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/legendary.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/lifesteal.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/magic_damage.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/magic_damage_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/mana_cost.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/mana_regeneration.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/masterwork.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/max_health.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/max_mana.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/max_stamina.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/max-stamina.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/movement_speed.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/note_weight.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/parry_cooldown_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/parry_rating.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/physical_damage.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/physical_damage_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/pickaxe_power.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/poor.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/projectile_damage.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/projectile_damage_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/pve_damage.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/pve_damage_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/pvp_damage.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/pvp_damage_reduction.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/range.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/rare.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/recoil.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/repair.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/repair_percent.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/restore_food.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/restore_health.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/restore_mana.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/restore_saturation.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/restore_stamina.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/restore-stamina.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/skill_critical_strike_chance.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/skill_critical_strike_power.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/skill_damage.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/soulbinding_break_chance.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/soulbinding_chance.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/soulbound_level.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/spell_vampirism.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/stamina_cost.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/stamina_regeneration.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/superior.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/tier.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/two_handed.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/uncommon.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/undead_damage.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/weapon_damage.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      }
+                  ]
 }
