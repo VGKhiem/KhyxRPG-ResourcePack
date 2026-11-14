@@ -1885,6 +1885,186 @@
                                     ]
                       },
                       {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem_red.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem_orange.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem_yellow.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem_green.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem_aqua.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem_blue.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem_purple.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem_pink.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gem_gray.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate_red.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate_orange.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate_yellow.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate_green.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate_aqua.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate_blue.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate_purple.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate_pink.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate_gray.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        ""
+                                    ]
+                      },
+                      {
                           "type":  "reference",
                           "id":  "minecraft:include/unifont"
                       }
