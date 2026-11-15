@@ -2290,6 +2290,15 @@
                                     ]
                       },
                       {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/skull.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4C7"
+                                    ]
+                      },
+                      {
                           "type":  "reference",
                           "id":  "minecraft:include/unifont"
                       }
