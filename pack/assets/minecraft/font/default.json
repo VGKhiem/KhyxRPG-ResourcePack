@@ -2245,6 +2245,51 @@
                                     ]
                       },
                       {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/lightning_bolt.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4C2"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/crescent_moon.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4C3"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/thorny_vine.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4C4"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/holy_cross.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4C5"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/holy_sword.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4C6"
+                                    ]
+                      },
+                      {
                           "type":  "reference",
                           "id":  "minecraft:include/unifont"
                       }
