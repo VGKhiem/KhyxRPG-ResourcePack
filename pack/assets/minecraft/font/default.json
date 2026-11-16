@@ -2423,6 +2423,150 @@
                                     ]
                       },
                       {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/flaming_tnt.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4D2"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/witch_hat.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4D3"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/bomb.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4D4"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/zombie_head.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4D5"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/rage_orb.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4D6"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/corrupted_wood.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4D7"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/ember_dust.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4D8"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/magic_wand.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4D9"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/purple_orb.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4DA"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/dark_sword.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4DB"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/sprout_seed.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4DC"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/aqua_scepter.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4DD"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/mutated_dna.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4DE"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/wheat_sheaf.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4DF"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/mossy_log.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4E0"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/water_drop.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4E1"
+                                    ]
+                      },
+                      {
                           "type":  "reference",
                           "id":  "minecraft:include/unifont"
                       }
