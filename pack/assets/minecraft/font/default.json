@@ -93,6 +93,15 @@
                       },
                       {
                           "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_kmenu_frame.png",
+                          "ascent":  14,
+                          "height":  187,
+                          "chars":  [
+                                        "\uE360"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
                           "file":  "khyxrpg:gui/gui_3row.png",
                           "ascent":  14,
                           "height":  166,
