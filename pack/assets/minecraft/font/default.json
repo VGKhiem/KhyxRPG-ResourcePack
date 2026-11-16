@@ -2342,6 +2342,87 @@
                                     ]
                       },
                       {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/money_bag.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4C9"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/coin_pile.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4CA"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/dollar.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4CB"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gold_bars.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4CC"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/ghost.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4CD"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/angel_wings.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4CE"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/gear_wrench.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4CF"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/demon_skull.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4D0"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/blood_bolt.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4D1"
+                                    ]
+                      },
+                      {
                           "type":  "reference",
                           "id":  "minecraft:include/unifont"
                       }
