@@ -118,21 +118,66 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "khyxrpg:gui/dialog_tab_active.png",
+                          "file":  "khyxrpg:gui/dialog_tab_map_on.png",
                           "ascent":  8,
                           "height":  36,
-                          "chars":  [
-                                        "\uE3B0"
-                                    ]
+                          "chars":  [ "\uE3B0" ]
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "khyxrpg:gui/dialog_tab_inactive.png",
+                          "file":  "khyxrpg:gui/dialog_tab_map_off.png",
                           "ascent":  8,
                           "height":  36,
-                          "chars":  [
-                                        "\uE3B1"
-                                    ]
+                          "chars":  [ "\uE3B1" ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_tab_prof_on.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [ "\uE3B2" ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_tab_prof_off.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [ "\uE3B3" ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_tab_shop_on.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [ "\uE3B4" ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_tab_shop_off.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [ "\uE3B5" ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_tab_event_on.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [ "\uE3B6" ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_tab_event_off.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [ "\uE3B7" ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_tab_spawn.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [ "\uE3B8" ]
                       },
                       {
                           "type":  "bitmap",
