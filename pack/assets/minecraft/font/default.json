@@ -109,12 +109,24 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "khyxrpg:gui/dialog_menu_panel_bottom.png",
-                          "ascent":  -19,
+                          "file":  "khyxrpg:gui/dialog_info_card_top.png",
+                          "ascent":  8,
                           "height":  36,
-                          "chars":  [
-                                        "\uE3A0\uE3A1\uE3A2\uE3A3\uE3A4\uE3A5\uE3A6\uE3A7"
-                                    ]
+                          "chars":  [ "\uE3A0" ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_info_card_mid.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [ "\uE3A1" ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_info_card_bot.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [ "\uE3A2" ]
                       },
                       {
                           "type":  "bitmap",
