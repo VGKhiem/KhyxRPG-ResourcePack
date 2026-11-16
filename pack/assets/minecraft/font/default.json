@@ -120,14 +120,14 @@
                           "type":  "bitmap",
                           "file":  "khyxrpg:gui/dialog_wood_btn.png",
                           "ascent":  8,
-                          "height":  36,
+                          "height":  27,
                           "chars":  [ "\uE3B0" ]
                       },
                       {
                           "type":  "bitmap",
                           "file":  "khyxrpg:gui/dialog_wood_btn_owned.png",
                           "ascent":  8,
-                          "height":  36,
+                          "height":  27,
                           "chars":  [ "\uE3B1" ]
                       },
                       {
