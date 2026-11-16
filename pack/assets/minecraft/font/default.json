@@ -93,6 +93,49 @@
                       },
                       {
                           "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_menu_panel.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [
+                                        "\uE360\uE361\uE362\uE363\uE364\uE365\uE366\uE367",
+                                        "\uE368\uE369\uE36A\uE36B\uE36C\uE36D\uE36E\uE36F",
+                                        "\uE370\uE371\uE372\uE373\uE374\uE375\uE376\uE377",
+                                        "\uE378\uE379\uE37A\uE37B\uE37C\uE37D\uE37E\uE37F",
+                                        "\uE380\uE381\uE382\uE383\uE384\uE385\uE386\uE387",
+                                        "\uE388\uE389\uE38A\uE38B\uE38C\uE38D\uE38E\uE38F",
+                                        "\uE390\uE391\uE392\uE393\uE394\uE395\uE396\uE397",
+                                        "\uE398\uE399\uE39A\uE39B\uE39C\uE39D\uE39E\uE39F"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_menu_panel_bottom.png",
+                          "ascent":  -19,
+                          "height":  36,
+                          "chars":  [
+                                        "\uE3A0\uE3A1\uE3A2\uE3A3\uE3A4\uE3A5\uE3A6\uE3A7"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_tab_active.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [
+                                        "\uE3B0"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_tab_inactive.png",
+                          "ascent":  8,
+                          "height":  36,
+                          "chars":  [
+                                        "\uE3B1"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
                           "file":  "khyxrpg:gui/gui_3row.png",
                           "ascent":  14,
                           "height":  166,
