@@ -70,7 +70,15 @@
                                         "\uE330\uE331\uE332\uE333\uE334\uE335\uE336\uE337",
                                         "\uE338\uE339\uE33A\uE33B\uE33C\uE33D\uE33E\uE33F",
                                         "\uE340\uE341\uE342\uE343\uE344\uE345\uE346\uE347",
-                                        "\uE348\uE349\uE34A\uE34B\uE34C\uE34D\uE34E\uE34F",
+                                        "\uE348\uE349\uE34A\uE34B\uE34C\uE34D\uE34E\uE34F"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_warpmap_bottom.png",
+                          "ascent":  -19,
+                          "height":  36,
+                          "chars":  [
                                         "\uE350\uE351\uE352\uE353\uE354\uE355\uE356\uE357"
                                     ]
                       },
