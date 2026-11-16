@@ -61,9 +61,12 @@
                           "type":  "bitmap",
                           "file":  "khyxrpg:gui/dialog_warpmap.png",
                           "ascent":  8,
-                          "height":  252,
+                          "height":  63,
                           "chars":  [
-                                        "\uE306"
+                                        "\uE310\uE311\uE312\uE313",
+                                        "\uE314\uE315\uE316\uE317",
+                                        "\uE318\uE319\uE31A\uE31B",
+                                        "\uE31C\uE31D\uE31E\uE31F"
                                     ]
                       },
                       {
