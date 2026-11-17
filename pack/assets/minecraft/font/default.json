@@ -2666,6 +2666,15 @@
                                     ]
                       },
                       {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:font/stats/donate_card.png",
+                          "ascent":  7,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE4E9"
+                                    ]
+                      },
+                      {
                           "type":  "reference",
                           "id":  "minecraft:include/unifont"
                       }
