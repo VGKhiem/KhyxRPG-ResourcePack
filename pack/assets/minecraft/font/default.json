@@ -61,7 +61,7 @@
                           "type":  "bitmap",
                           "file":  "khyxrpg:gui/dialog_warpmap.png",
                           "ascent":  8,
-                          "height":  36,
+                          "height":  27,
                           "chars":  [
                                         "\uE310\uE311\uE312\uE313\uE314\uE315\uE316\uE317",
                                         "\uE318\uE319\uE31A\uE31B\uE31C\uE31D\uE31E\uE31F",
@@ -76,8 +76,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "khyxrpg:gui/dialog_warpmap_bottom.png",
-                          "ascent":  -19,
-                          "height":  36,
+                          "ascent":  8,
+                          "height":  27,
                           "chars":  [
                                         "\uE350\uE351\uE352\uE353\uE354\uE355\uE356\uE357"
                                     ]
@@ -125,6 +125,15 @@
                           "height":  9,
                           "chars":  [
                                         "\uE363"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_hitbox_6px.png",
+                          "ascent":  8,
+                          "height":  8,
+                          "chars":  [
+                                        "\uE364"
                                     ]
                       },
                       {
