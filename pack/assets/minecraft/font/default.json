@@ -120,6 +120,15 @@
                       },
                       {
                           "type":  "bitmap",
+                          "file":  "khyxrpg:gui/dialog_btn_hitbox.png",
+                          "ascent":  8,
+                          "height":  9,
+                          "chars":  [
+                                        "\uE363"
+                                    ]
+                      },
+                      {
+                          "type":  "bitmap",
                           "file":  "khyxrpg:gui/gui_3row.png",
                           "ascent":  14,
                           "height":  166,
