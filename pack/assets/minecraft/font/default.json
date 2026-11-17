@@ -2731,6 +2731,24 @@
             "chars": [
                 ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_trade.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_koth.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                ""
+            ]
         }
     ]
 }
