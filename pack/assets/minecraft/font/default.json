@@ -121,8 +121,8 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:gui/dialog_btn_hitbox.png",
-            "ascent": 8,
-            "height": 9,
+            "ascent": 11,
+            "height": 15,
             "chars": [
                 ""
             ]
@@ -2614,7 +2614,7 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:font/stats/world_map.png",
-            "ascent": 7,
+            "ascent": 6,
             "height": 8,
             "chars": [
                 ""
@@ -2650,7 +2650,7 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:font/stats/soul_shop.png",
-            "ascent": 7,
+            "ascent": 6,
             "height": 8,
             "chars": [
                 ""
@@ -2659,7 +2659,7 @@
         {
             "type": "bitmap",
             "file": "khyxrpg:font/stats/vip_crown.png",
-            "ascent": 7,
+            "ascent": 6,
             "height": 8,
             "chars": [
                 ""
@@ -2748,6 +2748,15 @@
             "height": 8,
             "chars": [
                 ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps_btn_hitbox.png",
+            "ascent": 11,
+            "height": 15,
+            "chars": [
+                ""
             ]
         }
     ]
