@@ -2668,7 +2668,7 @@
                       {
                           "type":  "bitmap",
                           "file":  "khyxrpg:font/stats/donate_card.png",
-                          "ascent":  7,
+                          "ascent":  6,
                           "height":  8,
                           "chars":  [
                                         "\uE4E9"
