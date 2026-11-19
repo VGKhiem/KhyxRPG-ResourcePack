@@ -2761,29 +2761,47 @@
         },
         {
             "type": "bitmap",
-            "file": "khyxrpg:gui/dialog_kwarps_3row_left.png",
+            "file": "khyxrpg:gui/dialog_kwarps_top_left.png",
             "ascent": 8,
-            "height": 261,
+            "height": 171,
             "chars": [
                 "\uE368"
             ]
         },
         {
             "type": "bitmap",
-            "file": "khyxrpg:gui/dialog_kwarps_3row_right.png",
+            "file": "khyxrpg:gui/dialog_kwarps_top_right.png",
             "ascent": 8,
-            "height": 261,
+            "height": 171,
             "chars": [
                 "\uE369"
             ]
         },
         {
             "type": "bitmap",
-            "file": "khyxrpg:gui/dialog_kwarps_5_right.png",
+            "file": "khyxrpg:gui/dialog_kwarps_bot_left.png",
             "ascent": 8,
-            "height": 261,
+            "height": 90,
             "chars": [
                 "\uE36A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps_bot_right.png",
+            "ascent": 8,
+            "height": 90,
+            "chars": [
+                "\uE36B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps_bot_empty.png",
+            "ascent": 8,
+            "height": 90,
+            "chars": [
+                "\uE36C"
             ]
         },
         {
@@ -2792,7 +2810,7 @@
             "ascent": 8,
             "height": 99,
             "chars": [
-                "\uE36B"
+                "\uE36D"
             ]
         },
         {
@@ -2801,7 +2819,7 @@
             "ascent": 8,
             "height": 99,
             "chars": [
-                "\uE36C"
+                "\uE36E"
             ]
         },
         {
