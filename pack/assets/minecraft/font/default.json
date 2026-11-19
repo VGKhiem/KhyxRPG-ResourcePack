@@ -2758,6 +2758,114 @@
             "chars": [
                 ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps_3row_left.png",
+            "ascent": 8,
+            "height": 261,
+            "chars": [
+                "\uE368"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps_3row_right.png",
+            "ascent": 8,
+            "height": 261,
+            "chars": [
+                "\uE369"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps_5_right.png",
+            "ascent": 8,
+            "height": 261,
+            "chars": [
+                "\uE36A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps_1row_left.png",
+            "ascent": 8,
+            "height": 99,
+            "chars": [
+                "\uE36B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps_1row_right.png",
+            "ascent": 8,
+            "height": 99,
+            "chars": [
+                "\uE36C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_pvp.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4EF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_vip1.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4F0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_vip2.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4F1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_vip3.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4F2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_vip4.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4F3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_vip5.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4F4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_donator.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4F5"
+            ]
         }
     ]
 }
