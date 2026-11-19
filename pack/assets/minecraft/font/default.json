@@ -2884,6 +2884,69 @@
             "chars": [
                 "\uE4F5"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kvip_top_1.png",
+            "ascent": 8,
+            "height": 153,
+            "chars": [
+                "\uE36F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kvip_top_2.png",
+            "ascent": 8,
+            "height": 153,
+            "chars": [
+                "\uE370"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kvip_top_3.png",
+            "ascent": 8,
+            "height": 153,
+            "chars": [
+                "\uE371"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kvip_bot_1.png",
+            "ascent": 8,
+            "height": 144,
+            "chars": [
+                "\uE372"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kvip_bot_2.png",
+            "ascent": 8,
+            "height": 144,
+            "chars": [
+                "\uE373"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kvip_bot_3.png",
+            "ascent": 8,
+            "height": 144,
+            "chars": [
+                "\uE374"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kvip_btn_hitbox.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uE375"
+            ]
         }
     ]
 }
