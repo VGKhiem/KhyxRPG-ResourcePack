@@ -2983,6 +2983,24 @@
             "chars": [
                 "\uE4F9"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps_2row_left.png",
+            "ascent": 8,
+            "height": 180,
+            "chars": [
+                "\uE376"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps_2row_right.png",
+            "ascent": 8,
+            "height": 180,
+            "chars": [
+                "\uE377"
+            ]
         }
     ]
 }
