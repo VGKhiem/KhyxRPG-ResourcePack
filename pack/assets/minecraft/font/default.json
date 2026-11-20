@@ -3001,6 +3001,141 @@
             "chars": [
                 "\uE377"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_quest_menu.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE4FA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_quest_story.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4FB"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_quest_daily.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4FC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_quest_weekly.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4FD"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_koth.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4FE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kquest_1row_1.png",
+            "ascent": 8,
+            "height": 117,
+            "chars": [
+                "\uE378"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kquest_1row_2.png",
+            "ascent": 8,
+            "height": 117,
+            "chars": [
+                "\uE379"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kquest_2row_top_1.png",
+            "ascent": 8,
+            "height": 117,
+            "chars": [
+                "\uE37A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kquest_2row_top_2.png",
+            "ascent": 8,
+            "height": 117,
+            "chars": [
+                "\uE37B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kquest_2row_bot_1.png",
+            "ascent": 8,
+            "height": 99,
+            "chars": [
+                "\uE37C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kquest_2row_bot_2.png",
+            "ascent": 8,
+            "height": 99,
+            "chars": [
+                "\uE37D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps3_top_1.png",
+            "ascent": 8,
+            "height": 171,
+            "chars": [
+                "\uE37E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps3_top_2.png",
+            "ascent": 8,
+            "height": 171,
+            "chars": [
+                "\uE37F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps3_bot_1.png",
+            "ascent": 8,
+            "height": 90,
+            "chars": [
+                "\uE380"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kwarps3_bot_2.png",
+            "ascent": 8,
+            "height": 90,
+            "chars": [
+                "\uE381"
+            ]
         }
     ]
 }
