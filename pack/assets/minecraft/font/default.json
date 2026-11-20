@@ -3051,7 +3051,7 @@
             "type": "bitmap",
             "file": "khyxrpg:gui/dialog_kquest_1row_1.png",
             "ascent": 8,
-            "height": 117,
+            "height": 108,
             "chars": [
                 "\uE378"
             ]
@@ -3060,7 +3060,7 @@
             "type": "bitmap",
             "file": "khyxrpg:gui/dialog_kquest_1row_2.png",
             "ascent": 8,
-            "height": 117,
+            "height": 108,
             "chars": [
                 "\uE379"
             ]
@@ -3069,7 +3069,7 @@
             "type": "bitmap",
             "file": "khyxrpg:gui/dialog_kquest_2row_top_1.png",
             "ascent": 8,
-            "height": 117,
+            "height": 108,
             "chars": [
                 "\uE37A"
             ]
@@ -3078,7 +3078,7 @@
             "type": "bitmap",
             "file": "khyxrpg:gui/dialog_kquest_2row_top_2.png",
             "ascent": 8,
-            "height": 117,
+            "height": 108,
             "chars": [
                 "\uE37B"
             ]
@@ -3087,7 +3087,7 @@
             "type": "bitmap",
             "file": "khyxrpg:gui/dialog_kquest_2row_bot_1.png",
             "ascent": 8,
-            "height": 99,
+            "height": 90,
             "chars": [
                 "\uE37C"
             ]
@@ -3096,7 +3096,7 @@
             "type": "bitmap",
             "file": "khyxrpg:gui/dialog_kquest_2row_bot_2.png",
             "ascent": 8,
-            "height": 99,
+            "height": 90,
             "chars": [
                 "\uE37D"
             ]
