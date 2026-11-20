@@ -2947,6 +2947,42 @@
             "chars": [
                 "\uE375"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:item/gui/gui_reset_class.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4F6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:item/gui/gui_reset_stats.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4F7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:item/gui/gui_reset_skills.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4F8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:item/gui/gui_reset_talents.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE4F9"
+            ]
         }
     ]
 }
