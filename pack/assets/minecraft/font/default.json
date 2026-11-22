@@ -3208,6 +3208,60 @@
             "chars": [
                 "\uE502"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:font/stats/pve_damage.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\uE503"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:font/stats/max_health.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\uE504"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:font/stats/additional_experience.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\uE505"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:font/stats/additional_money.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\uE506"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:font/stats/defense.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\uE507"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:font/stats/pvp_damage.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\uE508"
+            ]
         }
     ]
 }
