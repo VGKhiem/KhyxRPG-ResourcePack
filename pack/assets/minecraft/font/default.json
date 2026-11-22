@@ -3154,6 +3154,42 @@
             "chars": [
                 "\uE383"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_guild_main.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE4FF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_guild_top.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE500"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_guild_create.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE501"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_guild_invite.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE502"
+            ]
         }
     ]
 }
