@@ -3292,20 +3292,38 @@
         },
         {
             "type": "bitmap",
-            "file": "khyxrpg:gui/dialog_kguild_members_left.png",
+            "file": "khyxrpg:gui/dialog_kguild_members_top_left.png",
             "ascent": 8,
-            "height": 270,
+            "height": 162,
             "chars": [
                 "\uE513"
             ]
         },
         {
             "type": "bitmap",
-            "file": "khyxrpg:gui/dialog_kguild_members_right.png",
+            "file": "khyxrpg:gui/dialog_kguild_members_top_right.png",
             "ascent": 8,
-            "height": 270,
+            "height": 162,
             "chars": [
                 "\uE514"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kguild_members_bot_left.png",
+            "ascent": 8,
+            "height": 108,
+            "chars": [
+                "\uE515"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kguild_members_bot_right.png",
+            "ascent": 8,
+            "height": 108,
+            "chars": [
+                "\uE516"
             ]
         }
     ]
