@@ -3262,6 +3262,33 @@
             "chars": [
                 "\uE508"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:font/pixel_3x3.png",
+            "ascent": 8,
+            "height": 3,
+            "chars": [
+                "\uE510"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:font/pixel_3x3.png",
+            "ascent": 5,
+            "height": 3,
+            "chars": [
+                "\uE511"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:font/pixel_3x3.png",
+            "ascent": 2,
+            "height": 3,
+            "chars": [
+                "\uE512"
+            ]
         }
     ]
 }
