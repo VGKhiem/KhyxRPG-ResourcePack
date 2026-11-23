@@ -3289,6 +3289,24 @@
             "chars": [
                 "\uE512"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kguild_members_left.png",
+            "ascent": 8,
+            "height": 162,
+            "chars": [
+                "\uE513"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/dialog_kguild_members_right.png",
+            "ascent": 8,
+            "height": 162,
+            "chars": [
+                "\uE514"
+            ]
         }
     ]
 }
