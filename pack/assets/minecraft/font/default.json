@@ -95,7 +95,7 @@
             "type": "bitmap",
             "file": "khyxrpg:gui/dialog_kmenu_left.png",
             "ascent": 8,
-            "height": 180,
+            "height": 198,
             "chars": [
                 ""
             ]
@@ -104,7 +104,7 @@
             "type": "bitmap",
             "file": "khyxrpg:gui/dialog_kmenu_right.png",
             "ascent": 8,
-            "height": 180,
+            "height": 198,
             "chars": [
                 ""
             ]
