@@ -3343,6 +3343,42 @@
             "chars": [
                 "\uE518"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_wb_monolith.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE520"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_wb_sir_peck.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE521"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_wb_warlord.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE522"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "khyxrpg:gui/icon_wb_summoner.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uE523"
+            ]
         }
     ]
 }
