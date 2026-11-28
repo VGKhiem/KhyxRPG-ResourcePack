@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "heart_of_sea_animated_weapon_set",
+      "prefix": "heart_of_sea_animated_weapon_set/"
+    }
+  ]
+}
